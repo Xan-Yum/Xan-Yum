@@ -24,6 +24,7 @@
 
 <p align="center">
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
@@ -47,10 +48,9 @@
 </p>
 
 <br>
-<br>
 
-<p align="center"><img src="https://img-blog.csdnimg.cn/f7384c88956d4378b72e47548e19c9f8.gif" alt="f7384c88956d4378b72e47548e19c9f8.gif" width="50" />
-</p>
+<p align="center">
+<h2 align="center">Technology Stack <img src="https://img-blog.csdnimg.cn/f7384c88956d4378b72e47548e19c9f8.gif" alt="f7384c88956d4378b72e47548e19c9f8.gif" width="50" /></h2></p>
 
 <p align="center">
   <a href="https://www.zhihu.com/people/Luna"><img src="https://img.shields.io/badge/zhihu-知乎-blue.svg" alt="知乎" /></a>
