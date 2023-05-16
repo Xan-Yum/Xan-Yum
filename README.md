@@ -1,5 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xan-Yum&layout=compact" />
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Xan-Yum&show_icons=true&theme=radical" >
 
 ### Hello 👋
 
@@ -35,7 +34,6 @@
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 </p>
-
 <!--<p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?user=Xan-Yum&theme=redical">
 </p>-->
@@ -43,8 +41,8 @@
 <br>
 
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Xan-Yum&show_icons=true&theme=radical" />
-<img align = "right" src="https://github-readme-streak-stats.herokuapp.com/?user=Xan-Yum&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xan-Yum&layout=compact"  width="40%">
+<img align = "right" src="https://github-readme-streak-stats.herokuapp.com/?user=Xan-Yum&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" width="60%">
 </p>
 
 <br>
