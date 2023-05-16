@@ -34,6 +34,7 @@
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 </p>
+
 <!--<p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?user=Xan-Yum&theme=redical">
 </p>-->
@@ -42,25 +43,13 @@
 
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xan-Yum&layout=compact"  width="40%">
-<img align = "right" src="https://github-readme-streak-stats.herokuapp.com/?user=Xan-Yum&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" width="60%">
+<img align = "right" src="https://github-readme-streak-stats.herokuapp.com/?user=Xan-Yum&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" width="55%">
 </p>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <br>
 
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<p align="center"><img src="https://img-blog.csdnimg.cn/f7384c88956d4378b72e47548e19c9f8.gif" alt="f7384c88956d4378b72e47548e19c9f8.gif" width="50" /></p>
+<p align="center"><img src="https://img-blog.csdnimg.cn/f7384c88956d4378b72e47548e19c9f8.gif" alt="f7384c88956d4378b72e47548e19c9f8.gif" width="50" />
+</p>
 
 <p align="center">
   <a href="https://www.zhihu.com/people/Luna"><img src="https://img.shields.io/badge/zhihu-知乎-blue.svg" alt="知乎" /></a>
@@ -72,6 +61,7 @@
 <p align="center">
 <a href="https://blog.waluna.top/">个人网站</a>  |  <a href="https://blog.waluna.top/about/">关于我</a>  | <a href="https://blog.csdn.net/qq_45520116">CSDN</a> | <a href="https://www.zhihu.com/people/Luna">知乎</a> | <a href="https://www.jianshu.com/u/26ed6c79f565">简书</a> 
 </p>
+
 <br>
 
 # 关于
