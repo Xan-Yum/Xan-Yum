@@ -7,10 +7,7 @@
 
 🇨🇳 China Laiwu ・🕹 Devops and SRE
 
-https://blog.waluna.top/
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xan-Yum&layout=compact" />
+[https://blog.waluna.top/](https://blog.waluna.top/)
 
 
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
@@ -39,12 +36,13 @@ https://blog.waluna.top/
 </p>
 
 
-<--<p align = "center">
+<!--<p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?user=Xan-Yum&theme=redical">
 </p>-->
 
-<p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Xan-Yum&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+<p align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xan-Yum&layout=compact" />
+<img align = "right" src="https://github-readme-streak-stats.herokuapp.com/?user=Xan-Yum&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 
 
@@ -71,9 +69,7 @@ https://blog.waluna.top/
 
 # 阿贤Blog
 
-```http
-https://blog.waluna.top/
-```
+[https://blog.waluna.top/](https://blog.waluna.top/)
 
 # 技术交流
 
@@ -83,7 +79,7 @@ https://blog.waluna.top/
 
 # 作者
 
-[QQ：7993167（点击聊天）](tencent://message/?uin=7993167)
+[QQ：7993167](tencent://message/?uin=7993167)
 
 WX：Xan_Yum
 
@@ -91,7 +87,7 @@ WX：Xan_Yum
 
 > **CSDN、GitHub、51CTO、知乎、开源中国、思否、掘金、简书、华为云、阿里云、腾讯云、哔哩哔哩、今日头条、新浪微博、个人博客**
 >
-> **全网可搜《小陈运维》**
+> **全网可搜《阿贤Linux》**
 >
 > **文章主要发布于个人博客和微信公众号**
 
