@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Xan-Yum&show_icons=true&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xan-Yum&layout=compact" />
 
 
 ### Hello 👋
@@ -43,12 +43,10 @@
 <br>
 
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xan-Yum&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Xan-Yum&show_icons=true&theme=radical" />
 <img align = "right" src="https://github-readme-streak-stats.herokuapp.com/?user=Xan-Yum&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 
-<br>
-<br>
 <br>
 
 <p align="center"><img src="https://img-blog.csdnimg.cn/f7384c88956d4378b72e47548e19c9f8.gif" alt="f7384c88956d4378b72e47548e19c9f8.gif" width="50" /></p>
