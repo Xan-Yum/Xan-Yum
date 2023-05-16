@@ -48,8 +48,15 @@
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-</marquee><p align="center"><img src="https://img-blog.csdnimg.cn/f7384c88956d4378b72e47548e19c9f8.gif" alt="f7384c88956d4378b72e47548e19c9f8.gif" width="50" /></p>
+<p align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></p>
 
 <p align="center">
   <a href="https://www.zhihu.com/people/Luna"><img src="https://img.shields.io/badge/zhihu-知乎-blue.svg" alt="知乎" /></a>
@@ -79,9 +86,9 @@
 
 # 作者
 
-[QQ：7993167](tencent://message/?uin=7993167)
+**[QQ：7993167](tencent://message/?uin=7993167)**
 
-WX：Xan_Yum
+**WX：Xan_Yum**
 
 <br>
 <br>
